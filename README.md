@@ -14,6 +14,10 @@
 
 ###
 
+<img align="right" height="150" src="https://scontent-waw2-1.xx.fbcdn.net/v/t39.30808-1/368698998_840421737450201_2941445748601455128_n.jpg?stp=c18.0.924.924a_dst-jpg_s200x200&_nc_cat=109&ccb=1-7&_nc_sid=0ecb9b&_nc_ohc=m6vYfhkvg78Q7kNvgGw5B57&_nc_zt=24&_nc_ht=scontent-waw2-1.xx&_nc_gid=AwP3NehzQDDXZVedWQ8CsNZ&oh=00_AYAWE28BkzTuheLwyAHtbUb_sqOZWbWXJPYujzTXuZxKPg&oe=672EBF1F"  />
+
+###
+
 <div align="left">
   <a href="mailto:pukaluk.adam505@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -67,9 +71,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://scontent-waw2-1.xx.fbcdn.net/v/t39.30808-1/368698998_840421737450201_2941445748601455128_n.jpg?stp=c18.0.924.924a_dst-jpg_s200x200&_nc_cat=109&ccb=1-7&_nc_sid=0ecb9b&_nc_ohc=m6vYfhkvg78Q7kNvgGw5B57&_nc_zt=24&_nc_ht=scontent-waw2-1.xx&_nc_gid=AwP3NehzQDDXZVedWQ8CsNZ&oh=00_AYAWE28BkzTuheLwyAHtbUb_sqOZWbWXJPYujzTXuZxKPg&oe=672EBF1F"  />
 
 ###
