@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I am student from Poland currently studing at TechniSchools<br>15yo <br><br>    🔭 I’m currently working on FlashTalkAI and Local Cloud<br><br>    🌱 I’m currently learning React Type Script and C++<br><br>    📫 How to reach me pukaluk.adam505@gmail.com</p>
+<p align="left">I am student from Poland currently studing at TechniSchools<br>15yo <br><br>    🔭 I’m currently working on FlashTalkAI and Local Cloud<br><br>    🌱 I’m currently learning React Type Script and C++<br><br>    📫 How to reach me: pukaluk.adam505@gmail.com</p>
 
 ###
 
