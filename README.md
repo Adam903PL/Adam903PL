@@ -47,25 +47,29 @@
 - **Local Cloud**: A self-hosted cloud storage solution for personal use.
 
 ---
+## 📫 Contact with Me
 
-### 📫 Connect with Me
-
-<p align="left">
+<div align="center">
   <a href="mailto:pukaluk.adam505@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.instagram.com/adam_pukaluk903/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.facebook.com/adam.pukaluk.3/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://linkedin.com/in/YourLinkedIn" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://github.com/adam903PL" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-</p>
+  <a href="https://www.linkedin.com/in/adam-pukaluk-339058298" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
 
----
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Let's+connect!;Feel+free+to+reach+out!+%F0%9F%91%8B" alt="Typing SVG"/>
+</div>
 
 ### 🔥 Contributions
 
