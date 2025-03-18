@@ -1,75 +1,80 @@
-<h2 align="left">Hi 👋! My name is Adam</h2>
+<h1 align="center">Hi 👋, I'm Adam</h1>
+<h3 align="center">A passionate Full-Stack Developer from Poland</h3>
 
-###
+<p align="center">
+  <a href="https://github.com/YourUsername">
+    <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://twitter.com/YourTwitter">
+    <img src="https://img.shields.io/twitter/follow/YourTwitter?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a>
+</p>
 
-<h3 align="left">About Me</h3>
+---
 
-###
+### 👨‍💻 About Me
 
-<p align="left">I am student from Poland currently studing at TechniSchools<br>15yo <br><br>    🔭 I’m currently working on FlashTalkAI and Local Cloud<br><br>    🌱 I’m currently learning React Type Script and C++<br><br>    📫 How to reach me: pukaluk.adam505@gmail.com</p>
+- 🌍 I'm based in **Poland**
+- 🏫 I'm a student at **TechniSchools**
+- 💻 I’m currently working on **FlashTalkAI** and **Local Cloud**
+- 🌱 I’m currently learning **React, TypeScript, and C++**
+- 📫 How to reach me: **pukaluk.adam505@gmail.com**
+- ⚡ Fun fact: I love solving complex problems and building scalable systems.
 
-###
+---
 
-<h3 align="left">Contact with me</h3>
+### 🛠️ Technologies & Tools
 
-###
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,py,cpp,php,flask,git,linux,nodejs,mysql,postgres,photoshop,illustrator,xd" alt="Technologies" />
+</p>
 
-<img align="right" height="150" src="https://scontent-waw2-1.xx.fbcdn.net/v/t39.30808-1/368698998_840421737450201_2941445748601455128_n.jpg?stp=c18.0.924.924a_dst-jpg_s200x200&_nc_cat=109&ccb=1-7&_nc_sid=0ecb9b&_nc_ohc=m6vYfhkvg78Q7kNvgGw5B57&_nc_zt=24&_nc_ht=scontent-waw2-1.xx&_nc_gid=AwP3NehzQDDXZVedWQ8CsNZ&oh=00_AYAWE28BkzTuheLwyAHtbUb_sqOZWbWXJPYujzTXuZxKPg&oe=672EBF1F"  />
+---
 
-###
+### 📊 GitHub Stats
 
-<div align="left">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🚀 Projects
+
+- **FlashTalkAI**: A real-time AI-powered chat application.
+- **Local Cloud**: A self-hosted cloud storage solution for personal use.
+
+---
+
+### 📫 Connect with Me
+
+<p align="left">
   <a href="mailto:pukaluk.adam505@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.instagram.com/adam_pukaluk903/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.facebook.com/adam.pukaluk.3/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-</div>
+  <a href="https://linkedin.com/in/YourLinkedIn" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-###
+---
 
-<h3 align="left">The thinks I can do</h3>
+### 🔥 Contributions
 
-###
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=github-dark&hide_border=true" alt="Contribution Graph" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="30" alt="xd logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
-</div>
+---
 
-###
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote" />
+</p>
