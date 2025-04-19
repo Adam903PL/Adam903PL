@@ -1,12 +1,20 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">A passionate Full-Stack Developer from Poland</h3>
 
+
+---
+<h2 align="center">🌐 My Portfolio</h2>
+
+<p align="center" style="font-size: 18px;">
+  Curious about what I build?<br/>
+  Explore my personal portfolio and see my projects in action, clean code, and futuristic UI!
+</p>
+
 <p align="center">
-  <a href="https://github.com/adam903PL">
-    <img src="https://komarev.com/ghpvc/?username=adam903PL&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-  <a href="https://twitter.com/YourTwitter">
-    <img src="https://img.shields.io/twitter/follow/YourTwitter?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  <a href="https://adam-pukaluk.vercel.app" target="_blank" style="text-decoration: none;">
+    <strong>
+      <span style="font-size: 22px; color: #00BFFF;">🚀 Visit: adam-pukaluk.vercel.app</span>
+    </strong>
   </a>
 </p>
 
@@ -20,6 +28,7 @@
 - 🌱 I’m currently learning **React, TypeScript, and C++**
 - 📫 How to reach me: **pukaluk.adam505@gmail.com**
 - ⚡ Fun fact: I love solving complex problems and building scalable systems.
+
 
 ---
 
@@ -45,6 +54,7 @@
 
 - **FlashTalkAI**: A real-time AI-powered chat application.
 - **Local Cloud**: A self-hosted cloud storage solution for personal use.
+
 
 ---
 ## 📫 Contact with Me
