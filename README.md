@@ -24,8 +24,8 @@
 
 - 🌍 I'm based in **Poland**
 - 🏫 I'm a student at **TechniSchools**
-- 💻 I’m currently working on **FlashTalkAI** and **Local Cloud**
-- 🌱 I’m currently learning **React, TypeScript, and C++**
+- 💻 I’m currently working on **FlashTalkAI** 
+- 🌱 I’m currently learning **React Native**
 - 📫 How to reach me: **pukaluk.adam505@gmail.com**
 - ⚡ Fun fact: I love solving complex problems and building scalable systems.
 
