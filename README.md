@@ -54,6 +54,8 @@
 
 - **FlashTalkAI**: A real-time AI-powered chat application.
 - **Local Cloud**: A self-hosted cloud storage solution for personal use.
+- **Techni Dev**: Application written in 3h for finding the perfect developer
+- **Nexino-Backend**: Fake Casino with lootbox crypto market etc.
 
 
 ---
