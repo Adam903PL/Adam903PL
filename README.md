@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Adam;Full-Stack+Developer;From+Poland+%F0%9F%87%B5%F0%9F%87%B1" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi 👋, I'm Adam</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -27,7 +25,9 @@
 
 <div align="center">
   <a href="https://adam-pukaluk.vercel.app" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=00BFFF&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Visit%3A+adam-pukaluk.vercel.app;%F0%9F%8C%9F+Check+out+my+projects!;%E2%9C%A8+Experience+futuristic+UI" alt="Portfolio Link" />
+    <strong>
+      <span style="font-size: 22px; color: #00BFFF;">🚀 Visit: adam-pukaluk.vercel.app</span>
+    </strong>
   </a>
 </div>
 
@@ -57,17 +57,16 @@
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,py,php,flask,git,linux,nodejs,mysql,postgres,photoshop,illustrator,xd,prisma,express,nextjs,kali&theme=dark" alt="Technologies" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,py,cpp,php,flask,git,linux,nodejs,mysql,postgres,photoshop,illustrator,xd,prisma,express,nextjs,kali&theme=dark" alt="Technologies" />
 </p>
 
+<div align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&align=center&titleAlign=center&fontSize=20&lineCount=3&theme=github_dark&line1=javascript%2Cjavascript%2C61dafb%3Btypescript%2Ctypescript%2C007ACC%3Breact%2Creact%2C20232a%3B&line2=nodejs%2Cnode.js%2C43853d%3Bexpress%2Cexpress%2C000000%3Bmysql%2Cmysql%2C4479A1%3B&line3=python%2Cpython%2C3776AB%3Blinux%2Clinux%2CFCC624%3Bgit%2Cgit%2CF05032%3B" alt="Tech Stack" />
+</div>
 
 ---
 
 ### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=9945FF&center=true&vCenter=true&width=600&lines=My+GitHub+Journey;Stats+That+Tell+a+Story;Continuous+Learning+%26+Growth" alt="Stats Header" />
-</div>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adam903PL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF"/>
@@ -87,10 +86,6 @@
 ### 🚀 Featured Projects
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Featured+Projects;Innovation+in+Action;Building+Tomorrow's+Solutions" alt="Projects Header" />
-</div>
-
-<div align="center">
   
 | 🚀 Project | 📝 Description | 🛠️ Tech Stack |
 |------------|----------------|----------------|
@@ -102,10 +97,6 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Let's+Connect!;Always+Open+to+Collaborate;Building+Networks%2C+Building+Future" alt="Contact Header" />
-</div>
 
 ## 📫 Contact with Me
 
@@ -160,7 +151,7 @@
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/adam903PL/adam903PL/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Adam903PL/README.md/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
