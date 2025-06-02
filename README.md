@@ -8,17 +8,19 @@
   </picture>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50" height="50"/>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="50" height="50"/>
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50" height="50"/>
+</div>
+
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=A+passionate+Full-Stack+Developer;Building+the+future+one+line+at+a+time;Always+learning%2C+always+coding" alt="Subtitle" />
 </h3>
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50" height="50"/>
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="50" height="50"/>
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50" height="50"/>
-</div>
+
 
 <h2 align="center">🌐 My Portfolio</h2>
 
@@ -63,8 +65,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,py,cpp,php,flask,git,linux,nodejs,mysql,postgres,photoshop,illustrator,xd,prisma,express,nextjs,kali&theme=dark" alt="Technologies" />
 </p>
-
-
 
 ---
 
@@ -183,6 +183,7 @@
   <img src="https://raw.githubusercontent.com/Adam903PL/Adam903PL/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </picture>
 </div>
+
 ---
 
 <div align="center">
