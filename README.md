@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  </picture>
 </div>
 
 <h3 align="center">
@@ -60,21 +64,31 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,py,cpp,php,flask,git,linux,nodejs,mysql,postgres,photoshop,illustrator,xd,prisma,express,nextjs,kali&theme=dark" alt="Technologies" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&align=center&titleAlign=center&fontSize=20&lineCount=3&theme=github_dark&line1=javascript%2Cjavascript%2C61dafb%3Btypescript%2Ctypescript%2C007ACC%3Breact%2Creact%2C20232a%3B&line2=nodejs%2Cnode.js%2C43853d%3Bexpress%2Cexpress%2C000000%3Bmysql%2Cmysql%2C4479A1%3B&line3=python%2Cpython%2C3776AB%3Blinux%2Clinux%2CFCC624%3Bgit%2Cgit%2CF05032%3B" alt="Tech Stack" />
-</div>
+
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adam903PL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam903PL&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=adam903PL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=adam903PL&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adam903PL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adam903PL&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adam903PL&layout=compact&langs_count=8&theme=default&hide_border=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam903PL&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adam903PL&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=adam903PL&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=adam903PL&theme=default&hide_border=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adam903PL&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+  </picture>
 </div>
 
 <div align="center">
@@ -127,7 +141,11 @@
 ### 🔥 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adam903PL&custom_title=Adam's%20Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area_color=F85D7F&title_color=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=adam903PL&custom_title=Adam's%20Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area_color=F85D7F&title_color=FFFFFF&area=true&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=adam903PL&custom_title=Adam's%20Contribution%20Graph&bg_color=FFFFFF&color=000000&line=000000&point=000000&area_color=E0E0E0&title_color=000000&area=true&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=adam903PL&custom_title=Adam's%20Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area_color=F85D7F&title_color=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  </picture>
 </div>
 
 ---
@@ -135,7 +153,11 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adam903PL&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=adam903PL&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=adam903PL&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15">
+    <img src="https://github-profile-trophy.vercel.app/?username=adam903PL&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+  </picture>
 </div>
 
 ---
@@ -143,7 +165,11 @@
 ### 💭 Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Quote" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&border=true">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Quote" />
+  </picture>
 </div>
 
 ---
@@ -151,7 +177,11 @@
 ### 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Adam903PL/README.md/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adam903PL/README.md/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adam903PL/README.md/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/Adam903PL/README.md/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</picture>
 </div>
 
 ---
