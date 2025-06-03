@@ -97,7 +97,6 @@
 ---
 
 ### 🚀 Featured Projects
-
 <div align="center">
   
 | 🚀 Project | 📝 Description | 🛠️ Tech Stack |
@@ -105,7 +104,11 @@
 | **FlashTalkAI** | 🤖 Real-time AI-powered chat application | React, Node.js, AI APIs |
 | **Local Cloud** | ☁️ Self-hosted cloud storage solution | Python, Flask, Docker |
 | **Techni Dev** | 👨‍💻 Developer finder built in 3h | React, Express, MongoDB |
-| **Nexino-Backend** | 🎰 Fake Casino with crypto market | Node.js, PostgreSQL, Web3 |
+| **Nexino-Backend** | 🎰 Fake Casino with crypto market simulation | Node.js, PostgreSQL |
+| **Pack Smart** | 📦 Prototype parcel delivery system with automated sender interface | Django, Next.js |
+
+</div>
+
 
 </div>
 
