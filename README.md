@@ -43,17 +43,45 @@
 
 ### 👨‍💻 About Me
 
-- 🌍 I'm based in **Poland** 🇵🇱
-- 🏫 I'm a student at **TechniSchools**
-- 🌱 I'm currently learning **React Native**
-- 📫 How to reach me: **pukaluk.adam505@gmail.com**
-- ⚡ Fun fact: I love solving complex problems and building scalable systems
-- 🎯 Goal: Build applications that make a difference
-- 🔥 Passion: Creating seamless user experiences
+- 🌍 I'm based in **Poland** 🇵🇱  
+- 🏫 I'm a student at **TechniSchools**  
+- 🌱 I'm currently learning **React Native**  
+- 📫 How to reach me: **pukaluk.adam505@gmail.com**  
+- ⚡ Fun fact: I love solving complex problems and building scalable systems  
+- 🎯 Goal: Build applications that make a difference  
+- 🔥 Passion: Creating seamless user experiences  
 
 <br clear="both"/>
 
 ---
+
+### 🧠 Learning & Goals
+
+<div align="center" style="max-width: 700px; margin: auto;">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61dafb&center=true&vCenter=true&width=600&lines=Currently+Learning%3A+React+Native+%F0%9F%93%8C;Next+I+Want+to+Master%3A+TypeScript+and+GraphQL+%F0%9F%92%BB;Always+Improving+%F0%9F%94%A5" alt="Learning Status" />
+
+<p style="font-size:18px; margin-top:15px; text-align:center;">
+  Here’s what I’m focused on and what’s next on my tech journey! 🚀
+</p>
+
+<table align="center" style="margin:auto; text-align:left; font-size:16px; line-height:1.5;">
+  <tr>
+    <td>📚 <b>Currently Learning</b></td>
+    <td>React Native, Next.js</td>
+  </tr>
+  <tr>
+    <td>🎯 <b>Next Goals</b></td>
+    <td>Remix, Astro</td>
+  </tr>
+</table>
+
+
+</div>
+
+---
+
+
 
 ### 🛠️ Technologies & Tools
 
