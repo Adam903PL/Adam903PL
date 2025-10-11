@@ -45,7 +45,7 @@
 
 - 🌍 I'm based in **Poland** 🇵🇱  
 - 🏫 I'm a student at **TechniSchools**  
-- 🌱 I'm currently learning **React Native**  
+- 🌱 I'm currently learning **WebRTC**  
 - 📫 How to reach me: **pukaluk.adam505@gmail.com**  
 - ⚡ Fun fact: I love solving complex problems and building scalable systems  
 - 🎯 Goal: Build applications that make a difference  
@@ -68,7 +68,7 @@
 <table align="center" style="margin:auto; text-align:left; font-size:16px; line-height:1.5;">
   <tr>
     <td>📚 <b>Currently Learning</b></td>
-    <td>React Native, Next.js</td>
+    <td>WebRTC</td>
   </tr>
   <tr>
     <td>🎯 <b>Next Goals</b></td>
