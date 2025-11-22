@@ -20,8 +20,6 @@
 
 ---
 
-
-
 <h2 align="center">🌐 My Portfolio</h2>
 
 <p align="center" style="font-size: 18px;">
@@ -30,9 +28,9 @@
 </p>
 
 <div align="center">
-  <a href="https://adam-pukaluk.vercel.app" target="_blank">
+  <a href="https://www.adampukaluk.pl/" target="_blank">
     <strong>
-      <span style="font-size: 22px; color: #00BFFF;">🚀 Visit: [adampukaluk.pl](https://www.adampukaluk.pl/)</span>
+      <span style="font-size: 22px; color: #00BFFF;">🚀 Visit: adampukaluk.pl</span>
     </strong>
   </a>
 </div>
@@ -45,7 +43,7 @@
 
 - 🌍 I'm based in **Poland** 🇵🇱  
 - 🏫 I'm a student at **TechniSchools**  
-- 🌱 I'm currently learning **WebRTC**  
+- 🌱 I'm currently working on **Prompt Version Control**  
 - 📫 How to reach me: **pukaluk.adam505@gmail.com**  
 - ⚡ Fun fact: I love solving complex problems and building scalable systems  
 - 🎯 Goal: Build applications that make a difference  
@@ -59,29 +57,26 @@
 
 <div align="center" style="max-width: 700px; margin: auto;">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61dafb&center=true&vCenter=true&width=600&lines=Currently+Learning%3A+React+Native+%F0%9F%93%8C;Next+I+Want+to+Master%3A+TypeScript+and+GraphQL+%F0%9F%92%BB;Always+Improving+%F0%9F%94%A5" alt="Learning Status" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61dafb&center=true&vCenter=true&width=600&lines=Currently+Working+On%3A+Prompt+Version+Control+%F0%9F%93%8C;Next+I+Want+to+Master%3A+TypeScript+and+GraphQL+%F0%9F%92%BB;Always+Improving+%F0%9F%94%A5" alt="Learning Status" />
 
 <p style="font-size:18px; margin-top:15px; text-align:center;">
-  Here’s what I’m focused on and what’s next on my tech journey! 🚀
+  Here's what I'm focused on and what's next on my tech journey! 🚀
 </p>
 
 <table align="center" style="margin:auto; text-align:left; font-size:16px; line-height:1.5;">
   <tr>
-    <td>📚 <b>Currently Learning</b></td>
-    <td>WebRTC</td>
+    <td>🔨 <b>Currently Working On</b></td>
+    <td>Prompt Version Control - Enterprise chat conversation management system</td>
   </tr>
   <tr>
     <td>🎯 <b>Next Goals</b></td>
-    <td>Remix, Astro</td>
+    <td>Remix, Astro, WebRTC</td>
   </tr>
 </table>
-
 
 </div>
 
 ---
-
-
 
 ### 🛠️ Technologies & Tools
 
@@ -125,18 +120,17 @@
 ---
 
 ### 🚀 Featured Projects
+
 <div align="center">
   
 | 🚀 Project | 📝 Description | 🛠️ Tech Stack |
 |------------|----------------|----------------|
+| **[Prompt Version Control](https://github.com/promptversioncontrol-org/)** | 🔐 Enterprise GitHub for AI chat conversations - track, version, and control employee AI interactions | React, Node.js, PostgreSQL |
 | **FlashTalkAI** | 🤖 Real-time AI-powered chat application | React, Node.js, AI APIs |
 | **Local Cloud** | ☁️ Self-hosted cloud storage solution | Python, Flask, Docker |
 | **Techni Dev** | 👨‍💻 Developer finder built in 3h | React, Express, MongoDB |
 | **Nexino-Backend** | 🎰 Fake Casino with crypto market simulation | Node.js, PostgreSQL |
 | **Pack Smart** | 📦 Prototype parcel delivery system with automated sender interface | Django, Next.js |
-
-</div>
-
 
 </div>
 
