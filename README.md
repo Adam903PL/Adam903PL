@@ -125,7 +125,7 @@
   
 | 🚀 Project | 📝 Description | 🛠️ Tech Stack |
 |------------|----------------|----------------|
-| **[Prompt Version Control](https://github.com/promptversioncontrol-org/)** | 🔐 Enterprise GitHub for AI chat conversations - track, version, and control employee AI interactions | React, Node.js, PostgreSQL |
+| **[Prompt Version Control](https://github.com/promptversioncontrol-org/)** | 🔐 Enterprise AI firewall preventing sensitive data leaks to LLMs. | React, Node.js, PostgreSQL |
 | **FlashTalkAI** | 🤖 Real-time AI-powered chat application | React, Node.js, AI APIs |
 | **Local Cloud** | ☁️ Self-hosted cloud storage solution | Python, Flask, Docker |
 | **Techni Dev** | 👨‍💻 Developer finder built in 3h | React, Express, MongoDB |
